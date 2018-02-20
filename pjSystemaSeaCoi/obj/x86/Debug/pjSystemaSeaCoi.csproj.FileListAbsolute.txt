@@ -1,0 +1,12 @@
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.exe
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmMainMenu.resources
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.exe
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmAgregar.resources
+c:\users\administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmPoliza.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmCuentasContables.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmInsertar.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.csprojResolveAssemblyReference.cache

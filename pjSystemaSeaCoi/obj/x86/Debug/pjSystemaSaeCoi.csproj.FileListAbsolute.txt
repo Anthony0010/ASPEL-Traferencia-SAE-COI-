@@ -1,0 +1,47 @@
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.exe.config
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.pdb
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.exe
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.pdb
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSaeCoi.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmAgregar.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.frmBaseDeDatos.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmCuentasContables.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmInsertar.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmMainMenu.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmPoliza.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.frmPolizaConsulta.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmUsuarios.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.lab.frmArchivo.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.lab.frmConsultarReporte.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.lab.frmUpdate.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Properties.Resources.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Reporte.FrmReporte.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSaeCoi.csproj.GenerateResource.Cache
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Reporte.FrmReporteR.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Reporte.frmBusqueda.resources
+C:\Users\Administrador\documents\visual studio 2010\Projects\pjSystemaSeaCoi\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.Reporte.FrmReporte1.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSaeCoi.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmAgregar.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.frmBaseDeDatos.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmCuentasContables.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmInsertar.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmMainMenu.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmPoliza.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.frmPolizaConsulta.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.FrmUsuarios.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.interfacesCoi.Reporte.FrmReporte1.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.lab.frmArchivo.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.lab.frmConsultarReporte.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.lab.frmUpdate.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Properties.Resources.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Reporte.frmBusqueda.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Reporte.FrmReporte.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.Reporte.FrmReporteR.resources
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSaeCoi.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.exe
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.pdb
+C:\Users\Anthony\Desktop\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.exe.config
+C:\Users\Anthony\Documents\pjSystemaSeaCoi\bin\Debug\pjSystemaSeaCoi.exe.config
+C:\Users\Anthony\Documents\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.exe
+C:\Users\Anthony\Documents\pjSystemaSeaCoi\obj\x86\Debug\pjSystemaSeaCoi.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_repcuentas" targetNamespace="http://tempuri.org/Poliza.xsd" xmlns:mstns="http://tempuri.org/Poliza.xsd" xmlns="http://tempuri.org/Poliza.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_repcuentas" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="_repcuentas" msprop:Generator_UserDSName="_repcuentas">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="_repcuentas" msprop:Generator_TableClassName="_repcuentasDataTable" msprop:Generator_TableVarName="table_repcuentas" msprop:Generator_RowChangedName="_repcuentasRowChanged" msprop:Generator_TablePropName="__repcuentas" msprop:Generator_RowDeletingName="_repcuentasRowDeleting" msprop:Generator_RowChangingName="_repcuentasRowChanging" msprop:Generator_RowEvHandlerName="_repcuentasRowChangeEventHandler" msprop:Generator_RowDeletedName="_repcuentasRowDeleted" msprop:Generator_RowClassName="_repcuentasRow" msprop:Generator_UserTableName="_repcuentas" msprop:Generator_RowEvArgName="_repcuentasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cuentas" msprop:Generator_ColumnVarNameInTable="columncuentas" msprop:Generator_ColumnPropNameInRow="cuentas" msprop:Generator_ColumnPropNameInTable="cuentasColumn" msprop:Generator_UserColumnName="cuentas" type="xs:string" minOccurs="0" />
+              <xs:element name="deptoid" msprop:Generator_ColumnVarNameInTable="columndeptoid" msprop:Generator_ColumnPropNameInRow="deptoid" msprop:Generator_ColumnPropNameInTable="deptoidColumn" msprop:Generator_UserColumnName="deptoid" type="xs:string" minOccurs="0" />
+              <xs:element name="descr" msprop:Generator_ColumnVarNameInTable="columndescr" msprop:Generator_ColumnPropNameInRow="descr" msprop:Generator_ColumnPropNameInTable="descrColumn" msprop:Generator_UserColumnName="descr" type="xs:string" minOccurs="0" />
+              <xs:element name="debito" msprop:Generator_ColumnVarNameInTable="columndebito" msprop:Generator_ColumnPropNameInRow="debito" msprop:Generator_ColumnPropNameInTable="debitoColumn" msprop:Generator_UserColumnName="debito" type="xs:decimal" minOccurs="0" />
+              <xs:element name="credito" msprop:Generator_ColumnVarNameInTable="columncredito" msprop:Generator_ColumnPropNameInRow="credito" msprop:Generator_ColumnPropNameInTable="creditoColumn" msprop:Generator_UserColumnName="credito" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

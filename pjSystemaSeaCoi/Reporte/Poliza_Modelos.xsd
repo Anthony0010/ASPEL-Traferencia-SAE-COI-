@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Poliza_Modelos" targetNamespace="http://tempuri.org/Poliza_Modelos.xsd" xmlns:mstns="http://tempuri.org/Poliza_Modelos.xsd" xmlns="http://tempuri.org/Poliza_Modelos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Poliza_Modelos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Poliza_Modelos" msprop:Generator_UserDSName="Poliza_Modelos">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="polizas_Modelos" msprop:Generator_TableClassName="polizas_ModelosDataTable" msprop:Generator_TableVarName="tablepolizas_Modelos" msprop:Generator_TablePropName="polizas_Modelos" msprop:Generator_RowDeletingName="polizas_ModelosRowDeleting" msprop:Generator_RowChangingName="polizas_ModelosRowChanging" msprop:Generator_RowEvHandlerName="polizas_ModelosRowChangeEventHandler" msprop:Generator_RowDeletedName="polizas_ModelosRowDeleted" msprop:Generator_UserTableName="polizas_Modelos" msprop:Generator_RowChangedName="polizas_ModelosRowChanged" msprop:Generator_RowEvArgName="polizas_ModelosRowChangeEvent" msprop:Generator_RowClassName="polizas_ModelosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CUENTA_CONTA" msprop:Generator_ColumnVarNameInTable="columnCUENTA_CONTA" msprop:Generator_ColumnPropNameInRow="CUENTA_CONTA" msprop:Generator_ColumnPropNameInTable="CUENTA_CONTAColumn" msprop:Generator_UserColumnName="CUENTA_CONTA" type="xs:string" minOccurs="0" />
+              <xs:element name="deptoid" msprop:Generator_ColumnVarNameInTable="columndeptoid" msprop:Generator_ColumnPropNameInRow="deptoid" msprop:Generator_ColumnPropNameInTable="deptoidColumn" msprop:Generator_UserColumnName="deptoid" type="xs:string" minOccurs="0" />
+              <xs:element name="DESCRIPCION" msprop:Generator_ColumnVarNameInTable="columnDESCRIPCION" msprop:Generator_ColumnPropNameInRow="DESCRIPCION" msprop:Generator_ColumnPropNameInTable="DESCRIPCIONColumn" msprop:Generator_UserColumnName="DESCRIPCION" type="xs:string" minOccurs="0" />
+              <xs:element name="IMPORTE" msprop:Generator_ColumnVarNameInTable="columnIMPORTE" msprop:Generator_ColumnPropNameInRow="IMPORTE" msprop:Generator_ColumnPropNameInTable="IMPORTEColumn" msprop:Generator_UserColumnName="IMPORTE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="credito" msprop:Generator_ColumnVarNameInTable="columncredito" msprop:Generator_ColumnPropNameInRow="credito" msprop:Generator_ColumnPropNameInTable="creditoColumn" msprop:Generator_UserColumnName="credito" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
